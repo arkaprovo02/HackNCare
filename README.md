@@ -8,7 +8,7 @@
   
   The above link shows the main website of HackNCare. The website shows all our services and principles and you can register here as well as download our application from here.
 
-  - 2. For exercise model
+  - 2. For the exercise model
     
 We used Mediapipe library for Pose detection. The distance between the landmarks of the figure are used to calculate the count of the exercise and that count is multiplied with the calories burnt in one count of that specific exercise to get the overall calories burnt in one set.<br/>
 
