@@ -6,7 +6,7 @@
 ## *2. Description :thinking:*
   - 1. Home Page<br/> 
   
-  The above link shows the main website of WeCare. The website shows all our services and principles and you can register here as well as download our application from here.
+  The above link shows the main website of HackNCare. The website shows all our services and principles and you can register here as well as download our application from here.
 
   - 2. For exercise model
     
