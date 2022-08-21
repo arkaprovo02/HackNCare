@@ -1,8 +1,8 @@
 # HackNCare
  A web app in conjunction with desktop app which aims for betterment in health of the users.  
 ## *1. Application link :zipper_mouth_face:*
-- Webpage link - https://wecare-silencer.netlify.app/
-- Demonstration Link - https://youtu.be/HPXGc0ilLbc
+- Webpage link - https://arkaprovo02.github.io/HackNCare/
+- Demonstration Link - https://youtu.be/RCGPIq1an1Y
 ## *2. Description :thinking:*
   - 1. Home Page<br/> 
   
